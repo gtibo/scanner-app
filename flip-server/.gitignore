@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+/uploads
+/database.db
+.env
+.env.*
+!.env.example
